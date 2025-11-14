@@ -69,7 +69,7 @@ I love blending **creativity + code** to make fun, interactive experiences for u
 👉 **LinkedIn:** [Muhammed Adil](https://www.linkedin.com/in/muhammed-adil-b6a623365/)  
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s3ODNmeHliYTlkZHF4NTUybnljYm4ycGZvcTRjdmF1cXR4OWlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)" width="200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s3ODNmeHliYTlkZHF4NTUybnljYm4ycGZvcTRjdmF1cXR4OWlyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="200" />
 </p>
 
 ---
