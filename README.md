@@ -1,66 +1,131 @@
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Muhammed+Adil+👋;MERN+Stack+Developer;Web+Dev+%7C+AI+Enthusiast;Always+Learning+New+Things+🚀" />
-</h1>
+ 
+<!-- Animated Introduction -->
+<h1 align="center">Hey, I'm Muhammed Adil 👋</h1>
 
----
-
-## 👨‍💻 About Me  
-I'm **Muhammed Adil**, a MERN stack development student passionate about building modern, responsive, and dynamic web applications.  
-I love blending **creativity + code** to make fun, interactive experiences for users.
+<h3 align="center">
+  Full-Stack Developer | MERN Stack | Next.js | AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XHzyGm4gPpRzq/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Applications;Full-Stack+Web+Developer;Exploring+AI+%26+Real-Time+Systems;Learning%2C+Building%2C+Improving+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adhiillllll&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 Tech Stack  
-### 💻 Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)
+## 👨‍💻 About Me
 
-### 🎨 Styling  
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38BDF8?logo=tailwindcss&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+I'm **Muhammed Adil**, a Full-Stack Developer passionate about building modern web applications and exploring emerging technologies.
+
+- 💻 Interested in Full-Stack Development and scalable applications.
+- 🚀 Building real-world projects using MERN and Next.js.
+- 🤖 Exploring AI integration, real-time communication, and intelligent systems.
+- 🌱 Constantly learning new technologies and improving my development skills.
+- 🎯 Focused on writing clean code and solving real-world problems.
 
 ---
 
-## 🔥 Interests  
-- 🚀 Modern Web Dev (Frontend + Backend)  
-- 🤖 AI & Creative Tools  
-- 🎨 Web Design & 3D Experiences  
+## 🛠️ Tech Stack
 
----
+**Languages**
 
-## 📚 Currently Learning  
-- Advanced **MERN**  
-- **Next.js** full-stack apps  
-- Integrating **AI** into web apps  
-- 3D websites with **Three.js**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+</p>
 
----
+**Frontend Development**
 
-## 🏆 Goals  
-- Become a professional MERN developer  
-- Build real-world full-stack applications  
-- Contribute to open-source and collaborate with devs  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
+</p>
 
----
+**Backend Development & Databases**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,supabase" />
+</p>
 
+**Tools & Technologies**
 
-## 📫 Connect With Me  
-👉 **LinkedIn:** [Muhammed Adil](https://www.linkedin.com/in/muhammed-adil-b6a623365/)  
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThqYXl5Ymt3Nndka3lsNGYwYnQ3M3Y3NThlNXRhOGxsaTF4ZDF6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,docker" />
 </p>
 
 ---
 
-⭐ *If you like what you see, feel free to follow me!*  
+## 🚀 Featured Projects
+
+### ⚔️ Debate Arena
+**AI-Powered Real-Time Debate Platform**
+
+An interactive online debate platform where two participants debate while an AI moderator analyzes factual claims against an evidence library.
+
+- Real-time communication using LiveKit.
+- AI-powered speech transcription.
+- Evidence-based claim verification.
+- Semantic embeddings for matching claims with relevant evidence.
+- Designed for Malayalam and English transcription.
+
+**Technologies:** Next.js, TypeScript, Python, LiveKit, Gemini AI, PostgreSQL, Prisma.
+
+### 🔍 GitHub Analyzer
+**AI-Powered GitHub Repository Analysis**
+
+A web application that analyzes GitHub repositories and presents useful insights about their codebase.
+
+- GitHub repository analysis.
+- Google and GitHub authentication.
+- User-specific search history and favorites.
+- Analysis caching for improved performance.
+- Markdown export functionality.
+
+**Technologies:** Next.js, TypeScript, Auth.js, Prisma, Neon PostgreSQL, GitHub API.
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced Next.js and full-stack architecture.
+- TypeScript and scalable application development.
+- AI-powered applications and LLM integration.
+- Python-based AI services.
+- Real-time communication and transcription systems.
+- Database design and backend architecture.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adhiillllll&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhiillllll&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adhiillllll&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammed-adil-b6a623365/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
+
+---
+
+<p align="center">
+  <b>Building. Learning. Experimenting. Growing. 🚀</b>
+  <br/>
+  ⭐ Thanks for visiting my profile!
+</p>
