@@ -1,29 +1,61 @@
- <h1 align="center">Hi, I'm Muhammed Adil 👋</h1>
+# Hey, I'm Muhammed Adil 👋
 
-<h3 align="center">Full-Stack Developer | MERN Stack | AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | Next.js | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+Real-World+Projects;Exploring+AI+%26+New+Technologies+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Applications;Full-Stack+Web+Developer;Exploring+AI+%26+Real-Time+Systems;Learning%2C+Building%2C+Improving+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adhiillllll&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 💻 Passionate about Full-Stack Development.
-- 🚀 Building modern, real-world web applications.
-- 🤖 Exploring AI integration and real-time systems.
-- 🌱 Always learning and improving.
+## 👨‍💻 About Me
 
-### 🛠️ Tech Stack
+I'm **Muhammed Adil**, a Full-Stack Developer passionate about building modern web applications and exploring emerging technologies.
+
+- 💻 Interested in Full-Stack Development and scalable applications.
+- 🚀 Building real-world projects using MERN and Next.js.
+- 🤖 Exploring AI integration, real-time communication, and intelligent systems.
+- 🌱 Constantly learning new technologies and improving my development skills.
+- 🎯 Focused on writing clean code and solving real-world problems.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,postgres,prisma,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 </p>
 
-### 🚀 Featured Projects
+**Frontend Development**
 
-- ⚔️ **Debate Arena** – AI-powered real-time debate platform.
-- 🔍 **GitHub Analyzer** – GitHub repository analysis platform.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
+</p>
+
+**Backend Development & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,supabase" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- ⚔️ Debate Arena – AI-powered real-time debate platform.
+- 🔍 GitHub Analyzer – GitHub repository analysis platform.
 
 ---
 
@@ -38,13 +70,29 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=adhiillllll&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhiillllll&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adhiillllll&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhiillllll&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adhiillllll&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhiillllll&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
 
-<h4 align="center">Building • Learning • Growing 🚀</h4>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<h3 align="center">Building. Learning. Experimenting. Growing. 🚀</h3>
+
+<p align="center">⭐ Thanks for visiting my profile!</p>
