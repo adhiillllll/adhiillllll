@@ -81,12 +81,6 @@ I'm **Muhammed Adil**, a Full-Stack Developer passionate about building modern w
   <img src="https://streak-stats.demolab.com?user=adhiillllll&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adhiillllll&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
 ---
 
 <p align="center">
