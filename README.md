@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Building+Ideas+Into+Applications;Full-Stack+Web+Developer;Exploring+AI+%26+Real-Time+Systems;Learning%2C+Building%2C+Improving+🚀" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adhiillllll&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
